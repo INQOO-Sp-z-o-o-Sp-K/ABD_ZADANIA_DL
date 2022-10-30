@@ -8,10 +8,14 @@ public class Master {
 //        System.out.println("to jest zadanie 4");
 //        zad4 kodpost =new zad4();
 //        kodpost.KodPocztowy("11-303");
-        System.out.println("to jest zadanie2");
-        Zad2 xXx = new Zad2();
-        xXx.potegi(8,2,2);
-
+//
+//        NIe działa pięknie....
+//        System.out.println("to jest zadanie2");
+//        Zad2 xXx = new Zad2();
+//        xXx.potegi(8,2,2);
+        System.out.println("Zadanie Nr.5");
+        Zad5 x = new Zad5();
+        x.tabdwa();
 
     }
 }
