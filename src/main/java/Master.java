@@ -5,17 +5,27 @@ public class Master {
 //   System.out.println("To jest zadanie 1.");
 //   Zad1 tab = new Zad1();
 //   tab.zad12(6);
-//        System.out.println("to jest zadanie 4");
-//        zad4 kodpost =new zad4();
-//        kodpost.KodPocztowy("11-303");
-//
-//        NIe działa pięknie....
-//        System.out.println("to jest zadanie2");
+
+        //DOPRACOWAĆ !!!!
+//        System.out.println("Zadanie Nr.2");
 //        Zad2 xXx = new Zad2();
 //        xXx.potegi(8,2,2);
-        System.out.println("Zadanie Nr.5");
-        Zad5 x = new Zad5();
-        x.tabdwa();
+
+        //DOPRACWAĆ !!!
+        System.out.println("Zadanie Nr.3");
+        Zad3 cCc = new Zad3();
+        cCc.szukanie(5);
+
+
+
+//
+//        System.out.println("Zadanie Nr.4");
+//        zad4 kodpost =new zad4();
+//        kodpost.KodPocztowy("11-303");
+
+//        System.out.println("Zadanie Nr.5");
+//        Zad5 x = new Zad5();
+//        x.tabdwa();
 
     }
 }
