@@ -9,7 +9,6 @@ public class zad4 {
     else{
              System.out.println("poprawny kod poctowy");
          }
-
      }
  }
 

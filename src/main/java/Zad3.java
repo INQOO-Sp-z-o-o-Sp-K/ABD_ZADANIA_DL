@@ -23,7 +23,6 @@ public class Zad3 {
 
             }
 
-
         }
 
         System.out.println("najmniejsza wartość " + min + "jej index to" + z);
