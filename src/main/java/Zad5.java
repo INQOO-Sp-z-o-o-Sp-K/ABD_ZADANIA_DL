@@ -11,10 +11,13 @@ public class Zad5 {
             }
             System.out.println();
         }
-        System.out.printf("Suma tablicy to: "+sum);
+        System.out.println("Suma tablicy to: "+sum);
     }
 }
 //
+
+
+
 //        int Tab2[][] = new int[2][2];
 //        int wynik = 0;
 //        int l = 1;

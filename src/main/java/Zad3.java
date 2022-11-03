@@ -18,9 +18,6 @@ public class Zad3 {
             if (tablica[i] < min) {
                 min = tablica[i];
                 z=i;
-
-
-
             }
 
         }

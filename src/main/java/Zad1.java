@@ -1,7 +1,7 @@
 import java.util.Arrays;
 
 public class Zad1 {
-// nie działa tak jak bym chciał ....
+
     public void zad12(int zmienna) {
 
         int[] tablica = new int[zmienna];
@@ -9,7 +9,7 @@ public class Zad1 {
         for (int i = 1; i <= tablica.length;i++ ) {
             tablica[wynik]=i;
             wynik++;
-//
+
             System.out.println(Arrays.toString(tablica));
             //System.out.print(j);
             //System.out.print(k);
