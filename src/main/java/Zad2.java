@@ -7,7 +7,7 @@ public class Zad2 {
         for (int i = 0; i <= zakres; i++) {
             wynik = Math.pow(zmienna,i);   //prawie dziala
              //potega<<=1;//przesunięcie bita słabo działa
-
+            //
             System.out.println( i+"                 "+Math.round(wynik)+"                 "+Integer.toString((int) wynik,8));
             //System.out.println( i+"    "+potega+" "+Integer.toString((int) potega, 8));
         }

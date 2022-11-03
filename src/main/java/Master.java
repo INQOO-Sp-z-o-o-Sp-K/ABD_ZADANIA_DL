@@ -23,8 +23,9 @@ public class Master {
 //        System.out.println("Zadanie Nr.5");
 //        Zad5 x = new Zad5();
 //        x.tabdwa();
-
-        System.out.printf("Zadanie Nr.6");
-
+//
+        System.out.println("Zadanie Nr.6");
+        Zad6 tabcopy = new Zad6();
+        tabcopy.tablicekopia(3);
     }
 }

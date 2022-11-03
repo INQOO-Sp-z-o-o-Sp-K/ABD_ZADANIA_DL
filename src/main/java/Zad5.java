@@ -14,6 +14,7 @@ public class Zad5 {
         System.out.printf("Suma tablicy to: "+sum);
     }
 }
+//
 //        int Tab2[][] = new int[2][2];
 //        int wynik = 0;
 //        int l = 1;

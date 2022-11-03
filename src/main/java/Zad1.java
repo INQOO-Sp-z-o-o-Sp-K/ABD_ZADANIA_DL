@@ -9,7 +9,7 @@ public class Zad1 {
         for (int i = 1; i <= tablica.length;i++ ) {
             tablica[wynik]=i;
             wynik++;
-
+//
             System.out.println(Arrays.toString(tablica));
             //System.out.print(j);
             //System.out.print(k);
