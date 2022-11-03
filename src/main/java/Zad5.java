@@ -2,7 +2,7 @@
 public class Zad5 {
     //
     public void tabdwa() {
-        int arr[][] = {{1,2},{1,2}};
+        int arr[][] = {{6,2},{6,2}};
         int sum=0;
         for (int i = 0; i < arr.length; i++) {
             for (int j = 0; j < arr[i].length; j++) {
